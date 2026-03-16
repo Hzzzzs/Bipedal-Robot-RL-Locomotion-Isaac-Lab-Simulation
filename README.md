@@ -9,7 +9,7 @@
 
 This repository contains the training and simulation framework for a point-foot bipedal robot (inspired by platforms like the [limxdynamics TRON1](https://www.limxdynamics.com/en/tron1)). Built on top of **NVIDIA Isaac Lab**, this project leverages GPU-accelerated massive parallel simulation to train robust reinforcement learning (RL) policies for versatile locomotion across various environments.
 
-# You can find the test videos and GIFs in the ['media'](./media/) folder.
+**You can find the test videos and GIFs in the ['media'](./media/) folder.**
 
 ### 🌟 Key Features
 - **Multi-Terrain Navigation:** Capable of traversing flat ground, stairs, and slopes.
